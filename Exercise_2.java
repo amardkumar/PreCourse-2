@@ -1,5 +1,5 @@
 //Time Complexity: O(NlogN), where N is the length of the array.
-//Auxiliary Space: O(1)
+//Space Complexity: O(1)
 
 class QuickSort 
 { 
