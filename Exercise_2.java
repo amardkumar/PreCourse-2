@@ -1,4 +1,4 @@
-//Time Complexity: O(NlogN), where N is the length of the array.
+//Time Complexity: O(nlogn), where n is the length of the array.
 //Space Complexity: O(1)
 
 class QuickSort 
