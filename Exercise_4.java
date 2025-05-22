@@ -1,3 +1,6 @@
+//Time Complexity: O(nlogn)
+//Space Complexity: O(n)
+
 class MergeSort 
 { 
     // Merges two subarrays of arr[]. 
